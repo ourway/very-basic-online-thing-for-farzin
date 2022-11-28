@@ -1,0 +1,4 @@
+typecheck:
+	@mypy -p app
+
+
